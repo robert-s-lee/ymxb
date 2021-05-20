@@ -1,0 +1,5 @@
+data/*
+runs/*
+.DS_Store
+.vscode/*
+*.swp
