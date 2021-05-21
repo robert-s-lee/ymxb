@@ -3,3 +3,5 @@ runs/*
 .DS_Store
 .vscode/*
 *.swp
+lightning_logs/*
+MNIST/*
